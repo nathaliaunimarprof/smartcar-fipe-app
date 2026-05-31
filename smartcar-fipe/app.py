@@ -137,7 +137,7 @@ st.markdown("""
 @st.cache_resource
 def load_model_artifacts():
     """Carrega o modelo treinado, os encoders e os metadados."""
-    model_dir = Path("model")
+    model_dir = Path(os.path.dirname(os.path.abspath(__file__))) / "model"
 
     try:
         model = joblib.load(model_dir / "melhor_modelo.pkl")
