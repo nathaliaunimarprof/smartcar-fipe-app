@@ -1,0 +1,26 @@
+{
+  "model_name": "Random Forest",
+  "features": [
+    "year_of_reference",
+    "month_of_reference_enc",
+    "engine_size",
+    "year_model",
+    "car_age",
+    "is_luxury",
+    "brand_enc",
+    "fuel_enc",
+    "gear_enc"
+  ],
+  "target": "avg_price_brl (via log1p transform)",
+  "train_samples": 410918,
+  "val_samples": 88054,
+  "test_samples": 88055,
+  "metrics_test": {
+    "r2": 0.937,
+    "mae": 14260.8,
+    "rmse": 33693.98,
+    "mape": 16.14
+  },
+  "trained_on": "FIPE Dataset (arquivo local: data/fipe_cars.csv)",
+  "created_at": "2026-05-23T17:55:54.423205"
+}
