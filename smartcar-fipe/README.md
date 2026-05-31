@@ -296,6 +296,8 @@ Métricas calculadas sobre o **conjunto de teste** (88.055 registros, hold-out):
 
 **Exemplo neste projeto:**
 
+https://github.com/user-attachments/assets/2d61c8ff-8115-4f52-9390-8753566c3af3
+
 A aplicação é organizada em três abas acessíveis pelo menu superior.
 
 ---
@@ -376,6 +378,8 @@ streamlit run app.py
 ```
 
 A aplicação estará disponível em `http://localhost:8501`.
+
+<img width="890" height="148" alt="image" src="https://github.com/user-attachments/assets/a4c869f3-73d0-4b2e-9f73-7a5e36bf2cd1" />
 
 > Caso os artefatos em `model/` não existam, execute o notebook `tabela_fipe_ml.ipynb` com o dataset em `data/fipe_cars.csv` para regenerá-los antes de iniciar a aplicação.
 
