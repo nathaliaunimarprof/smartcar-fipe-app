@@ -11,6 +11,8 @@
 
 https://github.com/user-attachments/assets/2d61c8ff-8115-4f52-9390-8753566c3af3
 
+**Acesso ao APP SmartCar FIPE - Preditor de Preços de Veículos**: https://smartcarfipeunimar.streamlit.app
+
 ---
 
 ## Sumário
