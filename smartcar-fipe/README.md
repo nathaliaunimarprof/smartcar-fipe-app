@@ -9,6 +9,8 @@
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-purple)]()
 
+https://github.com/user-attachments/assets/2d61c8ff-8115-4f52-9390-8753566c3af3
+
 ---
 
 ## Sumário
@@ -295,8 +297,6 @@ Métricas calculadas sobre o **conjunto de teste** (88.055 registros, hold-out):
 - Explique o que o usuário faz em cada tela e o que o sistema retorna.
 
 **Exemplo neste projeto:**
-
-https://github.com/user-attachments/assets/2d61c8ff-8115-4f52-9390-8753566c3af3
 
 A aplicação é organizada em três abas acessíveis pelo menu superior.
 
