@@ -12,6 +12,7 @@ import joblib
 import json
 from pathlib import Path
 from datetime import date
+import os
 
 # Configuração da página
 st.set_page_config(
